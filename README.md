@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to den-soim page
 
 You can use the [editor on GitHub](https://github.com/den-soima/den.soima.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
